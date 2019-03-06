@@ -5,7 +5,7 @@ description: |
   reading what we have to say!
 author:
   - name: Nora Jones 
-    url: https://example.com/norajones
+    url: https://kdenningclass.com
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
 date: 03-06-2019
