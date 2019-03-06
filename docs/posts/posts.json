@@ -40,8 +40,11 @@
       }
     ],
     "date": "2019-03-06",
-    "categories": [],
+    "categories": [
+      "dataviz",
+      "class"
+    ],
     "preview": "posts/2019-03-06-my-second-post/my-second-post_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2019-03-06T11:00:21-08:00"
+    "last_modified": "2019-03-06T11:05:01-08:00"
   }
 ]
