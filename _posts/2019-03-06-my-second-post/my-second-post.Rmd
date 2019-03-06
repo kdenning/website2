@@ -1,0 +1,27 @@
+---
+title: "My second post"
+description: |
+  A short description of the post.
+author:
+  - name: Kathryn Denning
+    url: https://example.com/norajones
+date: 03-06-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+
+```
+
+
+```{r}
+mpg1 <- mpg %>% 
+  mutate(manufacturer = as.factor(manufacturer))
+ggplot(mpg1, aes(cty, hwy, fill = manufacturer)) +
+  geom_col(position = "dodge")
+
+```

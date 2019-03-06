@@ -28,5 +28,20 @@
     "categories": [],
     "preview": "posts/2019-03-06-my-first-post/my-first-post_files/figure-html5/plot1-1.png",
     "last_modified": "2019-03-06T10:51:10-08:00"
+  },
+  {
+    "path": "posts/2019-03-06-my-second-post/",
+    "title": "My second post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Kathryn Denning",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-03-06",
+    "categories": [],
+    "preview": "posts/2019-03-06-my-second-post/my-second-post_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2019-03-06T11:00:21-08:00"
   }
 ]
